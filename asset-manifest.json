@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trouve-ton-artisan/static/css/main.6ef08dba.css",
+    "main.js": "/trouve-ton-artisan/static/js/main.c9cb0070.js",
+    "static/js/453.a667ee64.chunk.js": "/trouve-ton-artisan/static/js/453.a667ee64.chunk.js",
+    "static/media/Graphik-Black.otf": "/trouve-ton-artisan/static/media/Graphik-Black.c9421ea09628a7c25fd5.otf",
+    "static/media/Graphik-Medium.otf": "/trouve-ton-artisan/static/media/Graphik-Medium.3eb2c26dc24c945401af.otf",
+    "static/media/Graphik-Medium.ttf": "/trouve-ton-artisan/static/media/Graphik-Medium.6b8b9aee7fed1a822e36.ttf",
+    "static/media/Graphik-Black.ttf": "/trouve-ton-artisan/static/media/Graphik-Black.e3f4d4c2fb626f4e7da4.ttf",
+    "static/media/Graphik-Regular.ttf": "/trouve-ton-artisan/static/media/Graphik-Regular.cf858659cb80de0c0abd.ttf",
+    "static/media/Graphik-Regular.otf": "/trouve-ton-artisan/static/media/Graphik-Regular.e7f4046c1937c259c933.otf",
+    "static/media/Graphik-Black.woff": "/trouve-ton-artisan/static/media/Graphik-Black.a8c0ed4238e6f12da037.woff",
+    "static/media/Graphik-Medium.woff": "/trouve-ton-artisan/static/media/Graphik-Medium.181057b6aa4a5fb67c8a.woff",
+    "static/media/Graphik-Regular.woff": "/trouve-ton-artisan/static/media/Graphik-Regular.c891c70fddf00819cfc0.woff",
+    "index.html": "/trouve-ton-artisan/index.html",
+    "main.6ef08dba.css.map": "/trouve-ton-artisan/static/css/main.6ef08dba.css.map",
+    "main.c9cb0070.js.map": "/trouve-ton-artisan/static/js/main.c9cb0070.js.map",
+    "453.a667ee64.chunk.js.map": "/trouve-ton-artisan/static/js/453.a667ee64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef08dba.css",
+    "static/js/main.c9cb0070.js"
+  ]
+}
